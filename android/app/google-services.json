@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36535671221",
+    "project_id": "twinspider-task",
+    "storage_bucket": "twinspider-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36535671221:android:df59dbc5d718ba92bd21fc",
+        "android_client_info": {
+          "package_name": "com.example.twinspiders_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi1PqTepWIpqbLqhEpNHM01f_xBNFh4B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
